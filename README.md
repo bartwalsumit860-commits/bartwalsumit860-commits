@@ -1,18 +1,130 @@
-# 💫 About Me:
-An explorer who is finding the essence of problem-solving daily. 
+# Hi there 👋, I'm Sumit Bartwal
 
+### 💫 About Me
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SUMIT BARTWAL  Dehradun, Uttarakhand | +91 73025 90543  bartwalsumit860@gmail.com  |  LinkedIn  |  GitHub  | LeetCode  |  GFG  EDUCATION:  Bachelor of Computer Applications (BCA)  ICFAI University, Dehradun   CGPA: 10.0   TECHNICAL SKILLS:  August 2024 – May 2027  Languages:  Frontend:  Backend:  Databases:  C/C++, JavaScript (ES6+), Python, SQL  React.js, Redux Toolkit, HTML5, CSS3, Tailwind CSS  Node.js, Express.js, Fast API, REST APIs, JWT Authentication  MongoDB, Firebase Firestore, SQL  DevOps/Tools: Git, GitHub, Postman, Render, Vercel, Linux  PROJECTS  Book Recommendation System: Live Demo ↗       Repo  • Built a recommendation system using a dataset containing 271K+ books, 1.1M+ ratings, and  278K+ users. •  • Developed popularity-based recommendation logic using rating thresholds and average  rating metrics.   • Implemented collaborative filtering with user-book interaction matrices and cosine  similarity.   • Integrated Pickle-serialized recommendation models with Fast Apis.  • Integrated React frontend with Fast API backend to deliver real-time book recommendations.  Job Khojo (Full-Stack MERN Project): Live Demo ↗         Repo  • Architected a dual-role platform (recruiter + applicant) supporting end-to-end job posting,  application, and status-tracking workflows.  • Designed RESTful APIs and MongoDB schemas models (users, companies, jobs,  applications) with JWT-based auth, protected routes, and cookie-based sessions.  • Managed client-side state with Redux Toolkit across four slices, reducing prop-drilling and  enabling predictable cross-component updates.  • Deployed full-stack application on Render with Axios-based API communication and  environment-based config separation.  Chit Chat (Real-Time Chat Application):  • Built a real-time chat application using MERN Stack and  Socket.IO.  • Implemented JWT authentication, user management, and  message persistence.  • Developed real-time messaging and online user tracking  using WebSocket (socket io).  • Designed database schema, REST APIs, and modular  backend architecture.  CERTIFICATIONS:  Live Demo ↗     Repo  • NPTEL Cloud Computing: SWAYAM / IIT Kharagpur, 2025  • IoT Workshop Certificate: Hands-on hardware & sensor integration  • Solve 300+ LeetCode and GFG DSA Problems) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Sumit Bartwal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bartwalsumit860@gmail.com) 
+> *"An explorer who finds the essence of problem solving daily."*
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Sumit Bartwal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Sumit Bartwal&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sumit Bartwal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🎓 BCA Student at ICFAI University, Dehradun (CGPA: 10.0)
+
+💻 Passionate about Full-Stack Development, Cloud Computing, and Data Structures & Algorithms.
+
+🚀 I enjoy building products that solve real-world problems while continuously sharpening my problem-solving skills through consistent practice and learning.
+
+🌱 Currently exploring:
+
+* Full-Stack Development
+* Cloud Computing
+* System Design Fundamentals
+* Backend Architecture
+* Data Structures & Algorithms
 
 ---
-[![](https://komarev.com/ghpvc/?username=Sumit Bartwal&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="YOUR_LINKEDIN_URL" target="_blank">LinkedIn</a> •
+<a href="YOUR_GITHUB_URL" target="_blank">GitHub</a> •
+<a href="YOUR_LEETCODE_URL" target="_blank">LeetCode</a> •
+<a href="YOUR_GFG_URL" target="_blank">GeeksforGeeks</a>
+</p>
+
+---
+
+## ⚡ Tech Stack
+
+### Languages
+
+C++ • JavaScript • Python • SQL
+
+### Frontend
+
+React.js • Redux Toolkit • HTML5 • CSS3 • Tailwind CSS
+
+### Backend
+
+Node.js • Express.js • FastAPI • REST APIs • JWT Authentication
+
+### Databases
+
+MongoDB • Firebase Firestore • SQL
+
+### Tools & Platforms
+
+Git • GitHub • Linux • Postman • Render • Vercel
+
+---
+
+## 🚀 Featured Projects
+
+### 📚 Book Recommendation System
+
+A recommendation engine built on a dataset containing **271K+ books, 1.1M+ ratings, and 278K+ users**.
+
+* Implemented popularity-based recommendation logic
+* Built collaborative filtering using cosine similarity
+* Integrated FastAPI recommendation models with React frontend
+* Delivered real-time personalized book recommendations
+
+**Tech Stack:** React • FastAPI • Pandas • NumPy • Scikit-Learn
+
+🔗 Live Demo | Source Code
+
+---
+
+### 💼 Job Khojo
+
+A full-stack MERN job portal connecting recruiters and applicants.
+
+* Dual-role authentication system
+* Job posting and application workflows
+* Redux Toolkit state management
+* JWT authentication and protected routes
+* Fully deployed and production ready
+
+**Tech Stack:** MongoDB • Express • React • Node.js • Redux Toolkit
+
+🔗 Live Demo | Source Code
+
+---
+
+### 💬 Chit Chat
+
+A real-time chat application built using MERN Stack and Socket.IO.
+
+* Real-time messaging
+* Online user tracking
+* JWT authentication
+* Message persistence
+* Modular backend architecture
+
+**Tech Stack:** MongoDB • Express • React • Node.js • Socket.IO
+
+🔗 Live Demo | Source Code
+
+---
+
+## 🏆 Achievements
+
+* Solved **300+ DSA Problems** across LeetCode and GeeksforGeeks
+* Maintaining a **10.0 CGPA** in BCA
+* Completed **NPTEL Cloud Computing** (SWAYAM / IIT Kharagpur)
+* Built and deployed multiple full-stack applications
+
+---
+
+## 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME\&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+
+---
+
+## 📫 Let's Build Something Meaningful
+
+I enjoy collaborating on interesting projects, discussing technology, and learning from fellow developers.
+
+If you're working on something exciting, feel free to connect.
