@@ -128,16 +128,18 @@ Real-time chat platform powered by Socket.IO.
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=bartwalsumit860-commits
-\&show_icons=true\&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bartwalsumit860-commits&show_icons=true&theme=merko&hide_border=true&bg_color=000000" />
+</p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=bartwalsumit860-commits
-\&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=bartwalsumit860-commits&theme=merko&hide_border=true&background=000000" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bartwalsumit860-commits
-\&layout=compact\&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bartwalsumit860-commits&layout=compact&theme=merko&hide_border=true&bg_color=000000" />
+</p>
 
----
 
 ### ✨ Developer Philosophy
 
