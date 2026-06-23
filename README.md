@@ -16,26 +16,22 @@
 * System Design
 * Data Structures & Algorithms
 
-⚡ Fun Fact: I enjoy turning ideas into products and problems into opportunities to learn.
+⚡Please dont mind some AI slopes, My grammer is not that good so I polish it through a LLM model.
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/sumit-bartwal-5962b1308/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_GITHUB_URL">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="YOUR_LEETCODE_URL">
+<a href="https://leetcode.com/u/P8lOm5HcNf/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="YOUR_GFG_URL">
+<a href="https://www.geeksforgeeks.org/profile/mru89eqz">
 <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 </p>
