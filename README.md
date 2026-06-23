@@ -1,119 +1,132 @@
-# Hi there 👋, I'm Sumit Bartwal
+# Hi 👋, I'm Sumit Bartwal
 
 ### 💫 About Me
 
-> *"An explorer who finds the essence of problem solving daily."*
+> *"An explorer who finds the essence of problem-solving daily."*
 
-🎓 BCA Student at ICFAI University, Dehradun (CGPA: 10.0)
+🎓 BCA Student at ICFAI University, Dehradun (CGPA: **10.0**)
 
-💻 Passionate about Full-Stack Development, Cloud Computing, and Data Structures & Algorithms.
+💻 Full-Stack Developer passionate about building scalable web applications and solving challenging problems through code.
 
-🚀 I enjoy building products that solve real-world problems while continuously sharpening my problem-solving skills through consistent practice and learning.
-
-🌱 Currently exploring:
+🌱 Currently diving deeper into:
 
 * Full-Stack Development
 * Cloud Computing
-* System Design Fundamentals
-* Backend Architecture
+* Backend Engineering
+* System Design
 * Data Structures & Algorithms
+
+⚡ Fun Fact: I enjoy turning ideas into products and problems into opportunities to learn.
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="YOUR_LINKEDIN_URL" target="_blank">LinkedIn</a> •
-<a href="YOUR_GITHUB_URL" target="_blank">GitHub</a> •
-<a href="YOUR_LEETCODE_URL" target="_blank">LeetCode</a> •
-<a href="YOUR_GFG_URL" target="_blank">GeeksforGeeks</a>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_GITHUB_URL">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_LEETCODE_URL">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="YOUR_GFG_URL">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-## ⚡ Tech Stack
+# 💻 Tech Stack
 
 ### Languages
 
-C++ • JavaScript • Python • SQL
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
 ### Frontend
 
-React.js • Redux Toolkit • HTML5 • CSS3 • Tailwind CSS
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge\&logo=redux\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
 ### Backend
 
-Node.js • Express.js • FastAPI • REST APIs • JWT Authentication
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge\&logo=jsonwebtokens)
 
-### Databases
+### Database & Cloud
 
-MongoDB • Firebase Firestore • SQL
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge\&logo=firebase)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge\&logo=render\&logoColor=black)
 
-### Tools & Platforms
+### Tools
 
-Git • GitHub • Linux • Postman • Render • Vercel
-
----
-
-## 🚀 Featured Projects
-
-### 📚 Book Recommendation System
-
-A recommendation engine built on a dataset containing **271K+ books, 1.1M+ ratings, and 278K+ users**.
-
-* Implemented popularity-based recommendation logic
-* Built collaborative filtering using cosine similarity
-* Integrated FastAPI recommendation models with React frontend
-* Delivered real-time personalized book recommendations
-
-**Tech Stack:** React • FastAPI • Pandas • NumPy • Scikit-Learn
-
-🔗 Live Demo | Source Code
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
 ---
 
-### 💼 Job Khojo
+# 🚀 Featured Projects
 
-A full-stack MERN job portal connecting recruiters and applicants.
+## 📚 Book Recommendation System
 
-* Dual-role authentication system
-* Job posting and application workflows
-* Redux Toolkit state management
-* JWT authentication and protected routes
-* Fully deployed and production ready
-
-**Tech Stack:** MongoDB • Express • React • Node.js • Redux Toolkit
-
-🔗 Live Demo | Source Code
+Recommendation system built using a dataset of **271K+ books**, **1.1M+ ratings**, and **278K+ users**.
 
 ---
 
-### 💬 Chit Chat
+## 💼 Job Khojo
 
-A real-time chat application built using MERN Stack and Socket.IO.
+A full-stack MERN job portal connecting recruiters and job seekers.
+
+---
+
+## 💬 Chit Chat
+
+Real-time chat platform powered by Socket.IO.
+
+✨ Features:
 
 * Real-time messaging
 * Online user tracking
-* JWT authentication
+* JWT Authentication
 * Message persistence
-* Modular backend architecture
+* MERN Architecture
 
-**Tech Stack:** MongoDB • Express • React • Node.js • Socket.IO
+**Tech:** MongoDB • Express • React • Node.js • Socket.IO
 
-🔗 Live Demo | Source Code
-
----
-
-## 🏆 Achievements
-
-* Solved **300+ DSA Problems** across LeetCode and GeeksforGeeks
-* Maintaining a **10.0 CGPA** in BCA
-* Completed **NPTEL Cloud Computing** (SWAYAM / IIT Kharagpur)
-* Built and deployed multiple full-stack applications
+🔗 Demo | Source Code
 
 ---
 
-## 📈 GitHub Stats
+# 🏆 Achievements
+
+🥇 Solved 350+ DSA Problems
+
+🎓 Maintaining 10.0 CGPA
+
+☁️ NPTEL Cloud Computing Certification (IIT Kharagpur)
+
+🚀 Built & deployed multiple full-stack applications
+
+---
+
+# 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
 
@@ -123,8 +136,6 @@ A real-time chat application built using MERN Stack and Socket.IO.
 
 ---
 
-## 📫 Let's Build Something Meaningful
+### ✨ Developer Philosophy
 
-I enjoy collaborating on interesting projects, discussing technology, and learning from fellow developers.
-
-If you're working on something exciting, feel free to connect.
+> “Your perspective changes when you see coding as a way of problem solving rather then a big thick grammer book.”
